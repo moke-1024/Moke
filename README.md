@@ -1,2 +1,2 @@
 # Moke
-Moke of beging , World of change !
+Moke of begin, World of change !
